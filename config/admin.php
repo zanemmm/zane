@@ -22,7 +22,7 @@ return [
      */
     'route' => [
 
-        'prefix' => 'zane',
+        'prefix' => '11101001',
 
         'namespace' => 'App\\Admin\\Controllers',
 
@@ -42,7 +42,7 @@ return [
     /*
      * Use `https`.
      */
-    'secure' => false,
+    'secure' => true,
 
     /*
      * Laravel-admin auth setting.
